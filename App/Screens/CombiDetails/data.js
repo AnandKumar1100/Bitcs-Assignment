@@ -1,0 +1,8 @@
+import Bitcs from '../../assets/images'
+
+export default data = [
+    {year:1998, description: "Martin McVicar and Robert Moffett establish Combilift Ltd in Clontibret and launch the world's first engine powered, all wheel drive multi-directional forklift - the Combilift", descriptionImage: Bitcs.combilift, secondImage:Bitcs.combilift_logo, dateText:'Combilift exported to Norway, Benelux and France'},
+    {year:1999, description: "Martin McVicar and Robert Moffett establish Combilift Ltd in Clontibret and launch the world's first engine powered, all wheel drive multi-directional forklift - the Combilift", descriptionImage: Bitcs.combilift_logo, secondImage:Bitcs.combi_Office, dateText:'Combilift exported to Norway, Benelux and France'},
+    {year:2000, description: "Martin McVicar and Robert Moffett establish Combilift Ltd in Clontibret and launch the world's first engine powered, all wheel drive multi-directional forklift - the Combilift", descriptionImage: Bitcs.martin_mc, secondImage:Bitcs.combilift_logo, dateText:'Combilift exported to Norway, Benelux and France'},
+    {year:2001, description: "Martin McVicar and Robert Moffett establish Combilift Ltd in Clontibret and launch the world's first engine powered, all wheel drive multi-directional forklift - the Combilift", descriptionImage: Bitcs.combilift, secondImage:Bitcs.mm_combilift, dateText:'Combilift exported to Norway, Benelux and France'}
+]
